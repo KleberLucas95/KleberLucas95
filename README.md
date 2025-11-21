@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 👋 Hi, I'm Kleber
-💻 Software Developer with 8+ years of experience building web applications and APIs focused on performance, security, and maintainability.
+💻 Software Developer with 8+ years of experience building web applications and APIs focused on performance, security, and maintainability.  
 
 🚀 About Me
 🧩 Strong background in back-end development using PHP, Laravel, JavaScript, and SQL Server (MSSQL).
